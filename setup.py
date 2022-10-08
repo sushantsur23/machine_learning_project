@@ -24,6 +24,6 @@ name = NAME,
 version = VERSION,
 author = AUTHOR,
 description = DESCRIPTION,
-packages = find_packages(),         #siumilar to using PACKAGES
+packages = find_packages(),         #similar to using PACKAGES
 install_requires = get_requirements_list(),
 )
